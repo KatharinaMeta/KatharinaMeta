@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KatharinaMeta
-- 👀 I’m interested in Learning
+- 👀 I’m interested in Spiritualism
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me kathaina.meta@gmail.com
+- 📫 How to reach me katharina.meta@gmail.com
 
 <!---
 KatharinaMeta/KatharinaMeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
